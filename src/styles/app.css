@@ -1,0 +1,96 @@
+body {
+    background-color: #1e1e1e;
+    color: #f0f0f0;
+    font-family: 'Segoe UI', sans-serif;
+  }
+  
+  .glow-heading {
+    font-size: 2.5rem;
+    color: #00cfff;
+    text-shadow: 0 0 8px #00cfff;
+  }
+  
+  .btn-primary {
+    background-color: #00cfff;
+    border: none;
+    box-shadow: 0 0 10px #00cfff66;
+  }
+  
+  .btn-primary:hover {
+    background-color: #00b0e0;
+  }
+  
+  .dark-textarea {
+    background-color: #2a2a2a;
+    color: #f0f0f0;
+    border: 1px solid #444;
+    font-size: 1.2rem;
+  }
+  
+  .digital-clock {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #00ffcc;
+    text-shadow: 0 0 10px #00ffcc66;
+  }
+  
+  .topic-line {
+    color: #ffc107;
+  }
+  
+  .result-box {
+    background-color: #2c2c2c;
+    border: 2px solid #00cfff;
+    color: #f0f0f0;
+    padding: 1.5rem;
+  }
+  
+  .category {
+    font-size: 1.2rem;
+    color: #ffc107;
+    font-weight: bold;
+    margin-top: 0.8rem;
+  }
+  
+  strong {
+    color: #00ffcc;
+  }
+  
+  /* Styling for the restart and end buttons */
+.buttons {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  margin-top: 1.5rem;
+}
+
+button {
+  font-size: 1.1rem;
+  padding: 10px 20px;
+}
+
+.btn-primary {
+  background-color: #00cfff;
+  border: none;
+  box-shadow: 0 0 10px #00cfff66;
+}
+
+.btn-danger {
+  background-color: #e74c3c;
+  border: none;
+  box-shadow: 0 0 10px #e74c3c66;
+}
+
+button:hover {
+  opacity: 0.8;
+}
+.btn-warning {
+    background-color: #f39c12;
+    border: none;
+    box-shadow: 0 0 10px #f39c12;
+  }
+  
+  .btn-warning:hover {
+    background-color: #e67e22;
+  }
+  
